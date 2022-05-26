@@ -4,6 +4,14 @@
 
 This is the seed project that I use for Angular apps
 
+## Overview 
+used packages:
+- [Angular 12](http://angular.io/)
+- [Redux](http://redux.js.org/) using [@ngrx/Store](https://github.com/ngrx/store)
+- [ng-bootstrap](https://www.npmjs.com/package/@ng-bootstrap/ng-bootstrap)
+- [Angular Material 2](https://material.angular.io/)
+- [ngx-charts](https://swimlane.gitbook.io/ngx-charts/)
+
 ## Getting started
 
 ### Installation
